@@ -1,7 +1,7 @@
 [
     {
-        "name": "Top Three",
-        "levels": ["elgatohouse", "fort", "deimos_iii"],
+        "name": "ASD",
+        "levels": ["apecialday"],
         "colour": "linear-gradient(45deg, #8000FF, #FF0080, #00FF80)"
     }
 ]
