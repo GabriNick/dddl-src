@@ -1,0 +1,27 @@
+{
+    "id": 277,
+    "name": "Deimos III",
+    "author": "elnickson",
+    "creators": ["elnickson"],
+    "verifier": "elnickson",
+    "verification": "#",
+    "showcase": "#",
+    "percentToQualify": 100,
+    "legacy": "true",
+    "records": [
+        {
+            "user": "GabriNick",
+            "link": "#",
+            "percent": 100,
+            "hz": 1000
+        },
+        {
+            "user": "elFerdis",
+            "link": "#",
+            "percent": 100,
+            "hz": 90,
+            "mobile": "true"
+        }
+
+    ]
+}

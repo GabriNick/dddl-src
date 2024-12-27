@@ -1,0 +1,47 @@
+[
+    {
+        "role": "owner",
+        "name": "GabriNick",
+        "link": "https://www.youtube.com/@GabriNick"
+    },
+    {
+        "role": "owner",
+        "name": "elferDis",
+        "link": "https://www.youtube.com/@elferDis"
+    },
+    {
+        "role": "owner",
+        "name": "itzThiur",
+        "link": "https://www.youtube.com/@ThiurGD"
+    },
+    {
+        "role": "admin",
+        "name": "ElYava (Moham)",
+        "link": "https://www.youtube.com/@yavad24"
+    },
+    {
+        "role": "mod",
+        "name": "LucaGD12",
+        "link": "https://www.youtube.com/@LucaGD12"
+    },
+    {
+        "role": "mod",
+        "name": "zTallsRobot",
+        "link": "#"
+    },
+    {
+        "role": "dev",
+        "name": "Prometheus (Shitty List Dev)",
+        "link": "https://www.youtube.com/c/PrometheusAlt"
+    },
+    {
+        "role": "dev",
+        "name": "Emonadeo (Shitty List Dev)",
+        "link": "https://github.com/Emonadeo"
+    },
+    {
+        "role": "dev",
+        "name": "KrisGra (Shitty List Dev)",
+        "link": "https://www.youtube.com/channel/UCrB80p9IxnDthH551FpqlwQ"
+    }
+]
