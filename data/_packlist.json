@@ -2,6 +2,6 @@
     {
         "name": "Top Three",
         "levels": ["elgatohouse", "fort", "deimos_iii"],
-        "colour": "url(https://i.ytimg.com/vi/eqYr6MLwJE4/maxresdefault.jpg)"
+        "colour": "linear-gradient(45deg, #8000FF, #FF0080, #00FF80)"
     }
 ]
