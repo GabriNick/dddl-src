@@ -3,7 +3,7 @@
     --color-on-background: black;
     --color-background-hover: #eee;
     --color-on-background-hover: black;
-    --color-primary: #23ac41;
+    --color-primary: linear-gradient(45deg, #234eac, #003d0d);
     --color-primary-disabled: #003d0d;
     --color-on-primary: white;
     --color-error: #de0000;
@@ -16,7 +16,7 @@
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #23ac41;
+    --color-primary: linear-gradient(45deg, #234eac, #003d0d);
     --color-primary-disabled: #003d0d;
     --color-on-primary: white;
     --color-error: #de0000;
@@ -28,7 +28,7 @@
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #23ac41;
+    --color-primary: linear-gradient(45deg, #234eac, #003d0d);
     --color-primary-disabled: #003d0d;
     --color-on-primary: white;
     --color-error: #de0000;
