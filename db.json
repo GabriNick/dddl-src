@@ -1,35 +1,37 @@
-[
-    {
-      "id": "85v696joyusp67s",
-      "position": 1,
-      "name": "two players test (Solo)",
-      "points": 500,
-      "level_id": 1002,
-      "two_player": true
-    },
-    {
-      "id": "3o5qzuh5wrwvd9a",
-      "position": 2,
-      "name": "Jueves Beta",
-      "points": 490.6,
-      "level_id": 1003,
-      "two_player": false
-    },
-    {
-      "id": "2ik6jy8e20yaawx",
-      "position": 3,
-      "name": "Unique Level?",
-      "points": 481.7,
-      "level_id": 1,
-      "two_player": false,
-      "enjoyment": 33.94
-    },
-    {
-      "id": "nq2y9amxy8ykqtc",
-      "position": 4,
-      "name": "two players test (Solo)",
-      "points": 473.2,
-      "level_id": 1002,
-      "two_player": true
-    }
-]
+{
+    "data":[
+        {
+          "id": "85v696joyusp67s",
+          "position": 1,
+          "name": "two players test (Solo)",
+          "points": 500,
+          "level_id": 1002,
+          "two_player": true
+        },
+        {
+          "id": "3o5qzuh5wrwvd9a",
+          "position": 2,
+          "name": "Jueves Beta",
+          "points": 490.6,
+          "level_id": 1003,
+          "two_player": false
+        },
+        {
+          "id": "2ik6jy8e20yaawx",
+          "position": 3,
+          "name": "Unique Level?",
+          "points": 481.7,
+          "level_id": 1,
+          "two_player": false,
+          "enjoyment": 33.94
+        },
+        {
+          "id": "nq2y9amxy8ykqtc",
+          "position": 4,
+          "name": "two players test (Solo)",
+          "points": 473.2,
+          "level_id": 1002,
+          "two_player": true
+        }
+    ]
+}
