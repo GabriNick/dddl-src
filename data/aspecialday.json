@@ -1,10 +1,10 @@
 {
-    "id": 2,
-    "name": "A Special Day",
-    "author": "ItzThiur",
-    "creators": ["ItzThiur"],
-    "verifier": "ItzThiur",
-    "verification": "#",
+    "id": 1166,
+    "name": "Blank Cover",
+    "author": "StoneMan",
+    "creators": ["StoneMan", "GabriNick"],
+    "verifier": "PlaylinoSW",
+    "verification": "https://youtu.be/OG9kRV5WNGE?si=0IbGPne0oGnUZ9cd",
     "percentToQualify": 100,
     "records": []
 }
